@@ -214,5 +214,17 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "newsletter",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "title",
+        "value": "",
+        "label": "Title",
+        "valueType": "string"
+      }
+    ]
   }
 ]
