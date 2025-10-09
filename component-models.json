@@ -220,21 +220,20 @@
     "fields": [
       {
         "component": "richtext",
-        "name": "title",
+        "name": "f_title",
         "value": "",
         "label": "Title",
         "valueType": "string"
       },
       {
         "component": "reference",
-        "name": "image",
-        "label": "Image",
-        "valueType": "string",
-        "multi": false
+        "name": "b_button",
+        "label": "CTA",
+        "valueType": "string"
       },
       {
         "component": "richtext",
-        "name": "text",
+        "name": "f_text",
         "value": "",
         "label": "Description",
         "valueType": "string"
