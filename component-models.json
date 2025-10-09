@@ -226,7 +226,7 @@
         "valueType": "string"
       },
       {
-        "component": "reference",
+        "component": "button",
         "name": "b_button",
         "label": "CTA",
         "valueType": "string"
