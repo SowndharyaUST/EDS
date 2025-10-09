@@ -167,7 +167,8 @@
                 "template": {
                   "name": "Newsletter",
                   "model": "newsletter",
-                  "title": "Contact Us"
+                  "title": "Contact Us",
+                  "text": "<p>Subscribe to our newsletter to get the latest updates.</p>",
                 }
               }
             }

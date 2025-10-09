@@ -224,6 +224,13 @@
         "value": "",
         "label": "Title",
         "valueType": "string"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Description",
+        "valueType": "string"
       }
     ]
   }
