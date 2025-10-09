@@ -167,7 +167,8 @@
                 "template": {
                   "name": "Newsletter",
                   "model": "newsletter",
-                  "title": "Contact Us"
+                  "title": "Contact Us",
+                  "cta": "button"
                 }
               }
             }
