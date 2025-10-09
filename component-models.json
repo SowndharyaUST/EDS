@@ -224,13 +224,6 @@
         "value": "",
         "label": "Title",
         "valueType": "string"
-      },
-       {
-        "component": "button",
-        "name": "cta",
-        "value": "",
-        "label": "CTA",
-        "valueType": "button"
       }
     ]
   }
