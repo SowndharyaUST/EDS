@@ -226,6 +226,13 @@
         "valueType": "string"
       },
       {
+        "component": "reference",
+        "name": "image",
+        "label": "Image",
+        "valueType": "string",
+        "multi": false
+      },
+      {
         "component": "richtext",
         "name": "text",
         "value": "",
