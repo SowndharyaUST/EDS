@@ -216,6 +216,31 @@
     ]
   },
   {
+    "id": "newsletter",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "f_title",
+        "value": "",
+        "label": "Title",
+        "valueType": "string"
+      },
+      {
+        "component": "button",
+        "name": "b_button",
+        "label": "CTA",
+        "valueType": "string"
+      },
+      {
+        "component": "richtext",
+        "name": "f_text",
+        "value": "",
+        "label": "Description",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
     "id": "teaser",
     "fields": [
       {
