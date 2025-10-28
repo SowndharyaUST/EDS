@@ -36,11 +36,10 @@
       "id": "specification",
       "fields": [
         {
-          "component": "reference",
+          "component": "text",
           "valueType": "string",
           "name": "spec_icon",
-          "label": "Specification Icon",
-          "multi": false
+          "label": "Specification Icon"
         },
         {
           "component": "text",
