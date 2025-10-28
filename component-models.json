@@ -259,7 +259,7 @@
       },
       {
         "component": "richtext",
-        "name": "textContent_text",
+        "name": "text",
         "label": "Text",
         "valueType": "string",
         "required": true
