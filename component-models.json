@@ -241,6 +241,65 @@
     ]
   },
   {
+    "id": "specification",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "spec_icon",
+        "label": "Specification Icon",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "name": "spec_name",
+        "value": "",
+        "label": "Specification Name",
+        "valueType": "string"
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Specification Image",
+        "multi": false
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Descriptions",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "right_downloadURL",
+        "value": "",
+        "label": "Download URL",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "right_shareURL",
+        "value": "",
+        "label": "Share URL",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "specifications",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Banner Image",
+        "multi": false
+      }
+    ]
+  },
+  {
     "id": "teaser",
     "fields": [
       {
