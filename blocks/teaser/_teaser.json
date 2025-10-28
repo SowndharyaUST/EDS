@@ -11,7 +11,7 @@
               "name": "Teaser",
               "model": "teaser",
               "classes": "teaser-wrapC",
-              "classes_bg": "teaser-bg",
+              "classes_background": "light",
               "text": "<h2>Enter a title</h2><p>...and body text here!</p>",
               "textContent_cta": "/",
               "textContent_ctaText": "Click me!",
