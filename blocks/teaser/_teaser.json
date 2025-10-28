@@ -15,7 +15,7 @@
               "text": "<h2>Enter a title</h2><p>...and body text here!</p>",
               "textContent_cta": "/",
               "textContent_ctaText": "Click me!",
-              "select": "option1"
+              "select": "red"
             }
           }
         }
@@ -65,8 +65,9 @@
           "name": "select",
           "valueType": "string",
           "options": [
-            { "name": "Option 1", "value": "option1" },
-            { "name": "Option 2", "value": "option2" }
+            { "name": "Blue", "value": "blue" },
+            { "name": "Red", "value": "red" },
+            { "name": "Yellow", "value": "yellow" }
           ]
         }
       ]

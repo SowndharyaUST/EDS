@@ -283,12 +283,16 @@
         "valueType": "string",
         "options": [
           {
-            "name": "Option 1",
-            "value": "option1"
+            "name": "Blue",
+            "value": "blue"
           },
           {
-            "name": "Option 2",
-            "value": "option2"
+            "name": "Red",
+            "value": "red"
+          },
+          {
+            "name": "Yellow",
+            "value": "yellow"
           }
         ]
       }
