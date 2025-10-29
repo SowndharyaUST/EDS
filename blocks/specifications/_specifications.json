@@ -38,15 +38,15 @@
       "id": "specifications",
       "fields": [
         {
+          "component": "text",
+          "valueType": "string",
+          "name": "bike_specsTitle",
+          "label": "Specification Section Title"
+        },
+        {
           "collapsible": true,
           "label": "Specifications Settings",
           "fields": [
-            {
-              "component": "text",
-              "valueType": "string",
-              "name": "bike_specsTitle",
-              "label": "Specification Section Title"
-            },
             {
               "component": "text",
               "valueType": "string",
