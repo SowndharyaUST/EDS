@@ -37,11 +37,10 @@
       "id": "specifications",
       "fields": [
         {
-          "component": "reference",
+          "component": "text",
           "valueType": "string",
-          "name": "image",
-          "label": "Banner Image",
-          "multi": false
+          "name": "specs_title",
+          "label": "Specification Title"
         }
       ]
     },
