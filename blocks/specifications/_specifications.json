@@ -43,6 +43,12 @@
           "name": "bike_specsTitle",
           "label": "Specification Section Title"
         },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "bike_specsTitleType",
+          "label": "Specification Section Title Type"
+        },
          {
           "component": "reference",
           "valueType": "string",
