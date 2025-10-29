@@ -246,7 +246,7 @@
       {
         "component": "text",
         "valueType": "string",
-        "name": "bike_specs_title",
+        "name": "bike_specsTitle",
         "label": "Specification Section Title"
       },
       {
@@ -258,14 +258,14 @@
       },
       {
         "component": "text",
-        "name": "bike_right_downloadURL",
+        "name": "bike_downloadURL",
         "value": "",
         "label": "Download URL",
         "valueType": "string"
       },
       {
         "component": "text",
-        "name": "bike_right_shareURL",
+        "name": "bike_shareURL",
         "value": "",
         "label": "Share URL",
         "valueType": "string"
