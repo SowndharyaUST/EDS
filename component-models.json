@@ -241,6 +241,18 @@
     ]
   },
   {
+    "id": "specifications",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Banner Image",
+        "multi": false
+      }
+    ]
+  },
+  {
     "id": "specification",
     "fields": [
       {
@@ -283,18 +295,6 @@
         "value": "",
         "label": "Share URL",
         "valueType": "string"
-      }
-    ]
-  },
-  {
-    "id": "specifications",
-    "fields": [
-      {
-        "component": "reference",
-        "valueType": "string",
-        "name": "image",
-        "label": "Banner Image",
-        "multi": false
       }
     ]
   },
