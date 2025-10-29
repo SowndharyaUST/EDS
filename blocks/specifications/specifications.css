@@ -28,7 +28,7 @@
     left: 50%;
 }
 
-.block-heading{
+.block-heading {
     text-align: center;
     margin-bottom: 90px;
 }
@@ -76,7 +76,7 @@
 }
 
 .specs-body .specs-article.active {
-    display: block;
+    display: flex;
 }
 
 .specs-article .more-info-wrapper {
@@ -115,4 +115,20 @@
     justify-content: end;
     padding-right: 33px;
     opacity: 0.25;
+}
+@media (max-width: 1023px) {
+    .specs-body .specs-article .specs-main > div {
+        width: 100%;
+    }
+
+    .specs-body .specs-article .specs-main .bike-banner {
+        display: none;
+    }
+    .specs-body .specs-article .specs-main {
+        flex-direction: column;
+    }
+    .specs-body .specs-article.active {
+        display: flex;
+        flex-direction: column-reverse;
+    }
 }
