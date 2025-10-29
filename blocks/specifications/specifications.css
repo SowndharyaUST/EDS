@@ -76,7 +76,7 @@
 }
 
 .specs-body .specs-article.active {
-    display: flex;
+    display: block;
 }
 
 .specs-article .more-info-wrapper {
