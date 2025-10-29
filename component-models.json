@@ -258,14 +258,14 @@
       },
       {
         "component": "text",
-        "name": "right_downloadURL",
+        "name": "bike_right_downloadURL",
         "value": "",
         "label": "Download URL",
         "valueType": "string"
       },
       {
         "component": "text",
-        "name": "right_shareURL",
+        "name": "bike_right_shareURL",
         "value": "",
         "label": "Share URL",
         "valueType": "string"
