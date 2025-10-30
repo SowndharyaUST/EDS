@@ -43,7 +43,7 @@ export default async function decorate(block) {
   imageWrapper.innerHTML = '';
   Array.from(variantsData).forEach((child, index) => {
     let checkedValue = false;
-    if (index == 0) {
+    if (index === 0) {
       checkedValue = true;
     }
     const item = div(
@@ -66,7 +66,7 @@ export default async function decorate(block) {
       let colorClass = 'color-item';
       // const imageUrl = '';
 
-      if (colorIdx == 0) {
+      if (colorIdx === 0) {
         colorClass = 'color-item active';
       }
       const colorItem = div(
