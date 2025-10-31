@@ -22,7 +22,7 @@ async function getProductData(stateCode, cityCode) {
   }
 }
 
-export default async function decorate(block) {
+export async function overview(block) {
   const productData = await getProductData('DEL', 'DELHI');
 
   const variantsData = productData.data.products.items[0].variant_to_colors;
@@ -80,4 +80,8 @@ export default async function decorate(block) {
     });
     colorsList.append(colorList);
   });
+}
+
+export default async function decorate(block) {
+  await overview(block);
 }
