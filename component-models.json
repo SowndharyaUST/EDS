@@ -252,6 +252,17 @@
     ]
   },
   {
+    "id": "selector",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "Section title",
+        "label": "Section Title"
+      }
+    ]
+  },
+  {
     "id": "specifications",
     "fields": [
       {
