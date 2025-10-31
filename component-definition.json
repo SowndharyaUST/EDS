@@ -128,6 +128,22 @@
           }
         },
         {
+          "title": "Demo",
+          "id": "demo",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block",
+                "template": {
+                  "name": "Demo",
+                  "model": "demo",
+                  "classes": "demo"
+                }
+              }
+            }
+          }
+        },
+        {
           "title": "Fragment",
           "id": "fragment",
           "plugins": {
