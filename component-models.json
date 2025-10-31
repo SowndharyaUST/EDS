@@ -201,6 +201,24 @@
     ]
   },
   {
+    "id": "header",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "logo_image",
+        "label": "Image",
+        "multi": false
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "logo_alt",
+        "label": "Alt"
+      }
+    ]
+  },
+  {
     "id": "hero",
     "fields": [
       {
