@@ -23,7 +23,7 @@
         {
           "component": "text",
           "valueType": "string",
-          "name": "Section title",
+          "name": "section-title",
           "label": "Section Title"
         }
       ]
